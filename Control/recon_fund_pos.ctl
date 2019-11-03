@@ -1,0 +1,29 @@
+<?xml version = "1.0" encoding="UTF-8"?>
+<control>
+	<sourcekey>3</sourcekey>
+	<targetkey>3</targetkey>
+	<sourcefile>recon_fund_pos.csv</sourcefile>
+	<targetfile>recon_fund_pos.csv</targetfile>
+	<sourcefiledelimiter>TAB</sourcefiledelimiter>
+	<targetfiledelimiter>TAB</targetfiledelimiter>
+	<columnlist>
+		<columnitem>
+			<sourcecolumn>1</sourcecolumn>
+			<sourcepattern></sourcepattern>
+			<targetcolumn>1</targetcolumn>
+			<targetpattern></targetpattern>
+		</columnitem>
+		<columnitem>
+			<sourcecolumn>2</sourcecolumn>
+			<sourcepattern></sourcepattern>
+			<targetcolumn>2</targetcolumn>
+			<targetpattern></targetpattern>
+		</columnitem>
+		<columnitem>
+			<sourcecolumn>3</sourcecolumn>
+			<sourcepattern>SUBSTR(;3,4)</sourcepattern>
+			<targetcolumn>3</targetcolumn>
+			<targetpattern>SUBSTR(;3,4)</targetpattern>
+		</columnitem>
+	</columnlist>
+</control>

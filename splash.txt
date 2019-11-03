@@ -1,0 +1,14 @@
+                                                                   
+         ,------.                    ,--.        ,--.              
+         |  .---',--,--,--. ,--,--.,-'  '-. ,---.|  ,---.          
+         |  `--, |        |' ,-.  |'-.  .-'| .--'|  .-.  |         
+         |  `---.|  |  |  |\ '-'  |  |  |  \ `--.|  | |  |         
+         `------'`--`--`--' `--`--'  `--'   `---'`--' `--'         
+                                                                   
+Ematch application is a tools that help to do data reconciliation. 
+This tool allow you to compare files and it customizable the compa-
+ring behaviour via control file. This tools comes in handy when la-
+rge file is beginning process. Processing speed is much faster than
+excel. 
+
+                                             Created by:WonderBuild
